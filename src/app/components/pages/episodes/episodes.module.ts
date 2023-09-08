@@ -6,9 +6,7 @@ import { EpisodesComponent } from './episodes.component';
 
 
 @NgModule({
-  declarations: [
-    EpisodesComponent
-  ],
+  declarations: [EpisodesComponent],
   imports: [
     CommonModule,
     EpisodesRoutingModule
